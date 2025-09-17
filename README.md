@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0137-single-number-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Stack
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
