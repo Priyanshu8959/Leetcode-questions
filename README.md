@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0070-climbing-stairs) |
+| [0507-perfect-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2050-count-good-numbers) |
