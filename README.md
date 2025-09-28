@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0039-combination-sum) |
 | [0137-single-number-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0137-single-number-ii) |
+| [0162-find-peak-element](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0268-missing-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0496-next-greater-element-i) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
