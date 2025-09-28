@@ -61,11 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3324-split-the-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3324-split-the-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3324-split-the-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3324-split-the-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3324-split-the-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3324-split-the-array) |
 ## Stack
 |  |
 | ------- |
