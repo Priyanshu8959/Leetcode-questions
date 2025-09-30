@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0937-online-stock-span) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Number Theory
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0937-online-stock-span) |
 ## Binary Search
 |  |
 | ------- |
@@ -165,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
