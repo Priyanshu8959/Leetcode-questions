@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1319-unique-number-of-occurrences](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1319-unique-number-of-occurrences) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2679-count-distinct-numbers-on-board) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3324-split-the-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
+| [1319-unique-number-of-occurrences](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1319-unique-number-of-occurrences) |
 | [1794-minimize-deviation-in-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1794-minimize-deviation-in-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2679-count-distinct-numbers-on-board) |
