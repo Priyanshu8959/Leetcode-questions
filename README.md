@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0344-reverse-string) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0045-jump-game-ii) |
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2679-count-distinct-numbers-on-board](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2679-count-distinct-numbers-on-board) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
