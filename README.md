@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0141-linked-list-cycle) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0039-combination-sum) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0055-jump-game) |
 | [1794-minimize-deviation-in-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1794-minimize-deviation-in-array) |
