@@ -6,7 +6,7 @@ public:
         int n= nums.size();
         for(int j=0;j<n;j++)
         {   ans = 0;
-             for(int i=j;i<nums.size();i++){
+             for(int i=j;i<n;i++){
              ans +=nums[i];
              if(ans == k){
                 count++;
