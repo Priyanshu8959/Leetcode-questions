@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0507-perfect-number) |
+| [0670-maximum-swap](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2050-count-good-numbers) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0055-jump-game) |
+| [0670-maximum-swap](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0670-maximum-swap) |
 | [1794-minimize-deviation-in-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1794-minimize-deviation-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
