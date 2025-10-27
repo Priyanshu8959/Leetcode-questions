@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0268-missing-number) |
+| [0401-binary-watch](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0401-binary-watch) |
 | [1610-xor-operation-in-an-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1610-xor-operation-in-an-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0216-combination-sum-iii) |
+| [0401-binary-watch](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0401-binary-watch) |
 ## Monotonic Stack
 |  |
 | ------- |
