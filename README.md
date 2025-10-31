@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0401-binary-watch) |
