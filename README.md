@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0085-maximal-rectangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0162-find-peak-element) |
@@ -328,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
