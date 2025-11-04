@@ -23,13 +23,13 @@ public:
             vector<int> level;              
 
             for (int i = 0; i < n; i++) {
-                TreeNode* node = q.front();
+                TreeNode* cur = q.front();
                 q.pop();
 
-                level.push_back(node->val); 
+                level.push_back(cur->val); 
                 
-                if (node->left) q.push(node->left);
-                if (node->right) q.push(node->right);
+                if (cur->left) q.push(cur->left);
+                if (cur->right) q.push(cur->right);
             }
 
             ans.push_back(level);   
