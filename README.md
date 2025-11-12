@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0739-daily-temperatures) |
+| [0777-toeplitz-matrix](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0777-toeplitz-matrix) |
 | [0941-sort-array-by-parity](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0958-sort-array-by-parity-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1319-unique-number-of-occurrences) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0059-spiral-matrix-ii) |
 | [0085-maximal-rectangle](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0085-maximal-rectangle) |
+| [0777-toeplitz-matrix](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0777-toeplitz-matrix) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Queue
 |  |
