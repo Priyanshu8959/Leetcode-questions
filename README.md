@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0958-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1319-unique-number-of-occurrences) |
 | [1794-minimize-deviation-in-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1794-minimize-deviation-in-array) |
 | [1814-jump-game-vi](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1814-jump-game-vi) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Bit Manipulation
 |  |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0268-missing-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Union Find
 |  |
