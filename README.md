@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+| [1854-maximum-population-year](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1854-maximum-population-year) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3324-split-the-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1319-unique-number-of-occurrences) |
 | [1794-minimize-deviation-in-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1794-minimize-deviation-in-array) |
 | [1814-jump-game-vi](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1814-jump-game-vi) |
+| [1854-maximum-population-year](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1854-maximum-population-year) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1854-maximum-population-year](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1854-maximum-population-year) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Bit Manipulation
 |  |
