@@ -1,19 +1,23 @@
 class Solution {
 public:
     int numberOfSubarrays(vector<int>& nums, int k) {
-         auto atMost = [&](int k) {
-            int res = 0;
-            int i = 0;
-            for (int j = 0; j < nums.size(); j++) {
-                if (nums[j] % 2 != 0) k--;
-                while (k < 0) {
-                    if (nums[i] % 2 != 0) k++;
-                    i++;
-                }
-                res += (j - i + 1);
+        map<int,int>mp;
+        int n = nums.size();
+        for(int i=0;i<n;i++){
+            if(nums[i]%2==0){
+                nums[i]=0;
             }
-            return res;
-        };
-         return atMost(k) - atMost(k - 1);
+            else{
+                nums[i]=1;
+            }
+        }
+        mp[0]=1;
+        int sum =0;int ans = 0;
+        for(int i=0;i<n;i++){
+            sum+=nums[i];
+            ans+=mp[sum-k];
+            mp[sum]++;
+        }
+         return ans;
     }
 };
