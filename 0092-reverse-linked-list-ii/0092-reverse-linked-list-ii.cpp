@@ -29,10 +29,11 @@ public:
         }
 
     
-        if (before != NULL)
-            before->next = prev;
-        else
-            head = prev;    
+       if (left == 1) {
+     head = prev;
+} else {
+     before->next = prev;
+}
 
         helper->next = current;
 
