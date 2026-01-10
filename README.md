@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2032-largest-odd-number-in-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3462-vowels-game-in-a-string) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1319-unique-number-of-occurrences) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2679-count-distinct-numbers-on-board) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Union Find
 |  |
