@@ -8,13 +8,21 @@ public:
 
         while (j < nums.size()) {
 
-            while ((mask & nums[j]) != 0) {
-                mask ^= nums[i];
-                i++;
+            if ((mask & nums[j]) == 0) {
+                // no conflict → directly add
+                mask |= nums[j];
+                ans = max(ans, j - i + 1);
+            }
+            else {
+                // conflict → remove until safe
+                while ((mask & nums[j]) != 0) {
+                    mask ^= nums[i];
+                    i++;
+                }
+                mask |= nums[j];
+                ans = max(ans, j - i + 1);
             }
 
-            mask |= nums[j];
-            ans = max(ans, j - i + 1);
             j++;
         }
 
