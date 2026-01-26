@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2032-largest-odd-number-in-string) |
+| [2405-optimal-partition-of-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2405-optimal-partition-of-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Brainteaser
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1695-maximum-erasure-value) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2405-optimal-partition-of-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2405-optimal-partition-of-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2679-count-distinct-numbers-on-board) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1794-minimize-deviation-in-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1794-minimize-deviation-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2032-largest-odd-number-in-string) |
+| [2405-optimal-partition-of-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2405-optimal-partition-of-string) |
 ## Dynamic Programming
 |  |
 | ------- |
