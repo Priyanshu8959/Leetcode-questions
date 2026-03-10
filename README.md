@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0376-wiggle-subsequence](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0376-wiggle-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0055-jump-game) |
 | [0376-wiggle-subsequence](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0376-wiggle-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0670-maximum-swap](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1794-minimize-deviation-in-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1794-minimize-deviation-in-array) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0152-maximum-product-subarray) |
 | [0376-wiggle-subsequence](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0376-wiggle-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [1013-fibonacci-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1013-fibonacci-number) |
 | [1814-jump-game-vi](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1814-jump-game-vi) |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
