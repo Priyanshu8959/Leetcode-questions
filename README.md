@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0507-perfect-number) |
 | [0670-maximum-swap](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0670-maximum-swap) |
+| [0973-k-closest-points-to-origin](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1013-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1610-xor-operation-in-an-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1610-xor-operation-in-an-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0904-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0958-sort-array-by-parity-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0990-satisfiability-of-equality-equations) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0941-sort-array-by-parity](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0958-sort-array-by-parity-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -388,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0658-find-k-closest-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0973-k-closest-points-to-origin) |
 | [1794-minimize-deviation-in-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1794-minimize-deviation-in-array) |
 | [1814-jump-game-vi](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1814-jump-game-vi) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
@@ -400,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0973-k-closest-points-to-origin) |
 ## Design
 |  |
 | ------- |
@@ -578,4 +584,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0210-course-schedule-ii) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
