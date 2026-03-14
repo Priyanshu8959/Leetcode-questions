@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0658-find-k-closest-elements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0941-sort-array-by-parity](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0958-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0777-toeplitz-matrix](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0777-toeplitz-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0875-koko-eating-bananas) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
+| [0658-find-k-closest-elements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0941-sort-array-by-parity](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0958-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -383,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [1794-minimize-deviation-in-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1794-minimize-deviation-in-array) |
 | [1814-jump-game-vi](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1814-jump-game-vi) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
@@ -446,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
