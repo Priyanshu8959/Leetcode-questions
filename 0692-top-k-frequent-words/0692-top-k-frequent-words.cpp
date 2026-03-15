@@ -2,15 +2,15 @@ class Solution {
 public:
 
     struct cmp{
-        bool operator()(const pair<int,string> &a,const pair<int,string> &b){
+        bool operator()(const pair<int,string>& a,const pair<int,string>& b){
             if(a.first != b.first)
-                return a.first > b.first;
-            return a.second < b.second;
+                return a.first > b.first;       // smaller freq first
+            return a.second < b.second;         // lexicographically larger first
         }
     };
 
     vector<string> topKFrequent(vector<string>& words, int k) {
-        
+
         unordered_map<string,int> mp;
 
         for(int i = 0; i < words.size(); i++){
@@ -20,23 +20,18 @@ public:
         priority_queue<pair<int,string>, vector<pair<int,string>>, cmp> pq;
 
         for(auto it : mp){
-            int freq = it.second;
-            string s = it.first;
-            pq.push({freq, s});
+            pq.push({it.second, it.first});
 
-            if(pq.size() > k){
+            if(pq.size() > k)
                 pq.pop();
-            }
         }
 
-        vector<string> ans;
+        vector<string> ans(k);
 
-        while(!pq.empty()){
-            ans.push_back(pq.top().second);
+        for(int i = k-1; i >= 0; i--){
+            ans[i] = pq.top().second;
             pq.pop();
         }
-
-        reverse(ans.begin(), ans.end());
 
         return ans;
     }
