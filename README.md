@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1319-unique-number-of-occurrences](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1319-unique-number-of-occurrences) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1046-last-stone-weight) |
 | [1794-minimize-deviation-in-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1794-minimize-deviation-in-array) |
 | [1814-jump-game-vi](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1814-jump-game-vi) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
