@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0055-jump-game) |
 | [0376-wiggle-subsequence](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
+| [0502-ipo](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0502-ipo) |
 | [0670-maximum-swap](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0670-maximum-swap) |
 | [0767-reorganize-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0767-reorganize-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0767-reorganize-string) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0767-reorganize-string) |
