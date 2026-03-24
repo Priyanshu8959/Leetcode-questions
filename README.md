@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0222-count-complete-tree-nodes) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0777-toeplitz-matrix](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0777-toeplitz-matrix) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
