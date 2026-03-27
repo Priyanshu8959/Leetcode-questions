@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1794-minimize-deviation-in-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1794-minimize-deviation-in-array) |
 | [1814-jump-game-vi](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1814-jump-game-vi) |
 | [1854-maximum-population-year](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1854-maximum-population-year) |
+| [1901-find-a-peak-element-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1901-find-a-peak-element-ii) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1901-find-a-peak-element-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1901-find-a-peak-element-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Sorting
 |  |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0777-toeplitz-matrix](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0777-toeplitz-matrix) |
+| [1901-find-a-peak-element-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1901-find-a-peak-element-ii) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Queue
 |  |
