@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0767-reorganize-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0767-reorganize-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0941-sort-array-by-parity](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0958-sort-array-by-parity-ii) |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
