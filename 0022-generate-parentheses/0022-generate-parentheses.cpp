@@ -2,7 +2,7 @@ class Solution {
 public:
     void backtrack(string curr, int open, int close, int n,
                    vector<string>& res) {
-        if (curr.length() == 2 * n) {
+        if ( open==n && close==n) {
             res.push_back(curr);
             return;
         }
