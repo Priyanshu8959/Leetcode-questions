@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0328-odd-even-linked-list) |
 ## Math
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2050-count-good-numbers) |
 ## String
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0567-permutation-in-string) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0739-daily-temperatures) |
