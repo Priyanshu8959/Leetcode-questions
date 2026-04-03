@@ -1,15 +1,19 @@
 class Solution {
 public:
-    void backtrack(string &digits, int index, string current, vector<string> &ans,
-                   vector<vector<string>> &track) {
+    void backtrack(string& digits, int index, string& current,
+                   vector<string>& ans, vector<vector<string>>& track) {
+
         if (index == digits.size()) {
             ans.push_back(current);
             return;
         }
 
-        int num = digits[index] - '0'; // convert char to int
-        for (string it : track[num]) {
-            backtrack(digits, index + 1, current + it, ans, track);
+        int num = digits[index] - '0';
+
+        for (auto& ch : track[num]) {
+            current += ch;                          
+            backtrack(digits, index + 1, current, ans, track);
+            current.pop_back();                    
         }
     }
 
@@ -23,7 +27,8 @@ public:
             {"p", "q", "r", "s"}, {"t", "u", "v"}, {"w", "x", "y", "z"}
         };
 
-        backtrack(digits, 0, "", ans, track);
+        string current = "";                        
+        backtrack(digits, 0, current, ans, track);
         return ans;
     }
 };
