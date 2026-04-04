@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0074-search-a-2d-matrix) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0229-majority-element-ii) |
