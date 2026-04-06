@@ -24,7 +24,7 @@ bool helper(TreeNode* root1 ,TreeNode* root2){
     }
     bool l = helper(root1->left , root2->right);
     bool r = helper(root1->right , root2->left);
-    return l & r;
+    return l && r;
 }
     bool isSymmetric(TreeNode* root) {
         return helper(root->left , root->right);
