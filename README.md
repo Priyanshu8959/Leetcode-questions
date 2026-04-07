@@ -473,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0155-min-stack) |
 | [0937-online-stock-span](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0937-online-stock-span) |
+| [2069-walking-robot-simulation-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2069-walking-robot-simulation-ii) |
 ## Data Stream
 |  |
 | ------- |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0059-spiral-matrix-ii) |
+| [2069-walking-robot-simulation-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2069-walking-robot-simulation-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2679-count-distinct-numbers-on-board) |
