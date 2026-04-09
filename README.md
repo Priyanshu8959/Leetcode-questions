@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0767-reorganize-string) |
+| [0796-rotate-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0796-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
