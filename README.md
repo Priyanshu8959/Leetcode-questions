@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0502-ipo) |
