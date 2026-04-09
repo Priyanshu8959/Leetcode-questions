@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0347-top-k-frequent-elements) |
