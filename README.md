@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0507-perfect-number) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0229-majority-element-ii) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0204-count-primes) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Prefix Sum
 |  |
@@ -710,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0204-count-primes) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Indexed Tree
