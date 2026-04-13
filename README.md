@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1695-maximum-erasure-value) |
 | [1794-minimize-deviation-in-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1794-minimize-deviation-in-array) |
 | [1814-jump-game-vi](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1814-jump-game-vi) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1854-maximum-population-year](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1854-maximum-population-year) |
 | [1901-find-a-peak-element-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1901-find-a-peak-element-ii) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
