@@ -11,19 +11,28 @@
  */
 class Solution {
 public:
-int dfs(TreeNode* root, int num){
-if(root==NULL) return 0; // edge case
-int new_number = 10*num+root->val;
-if(root->left==NULL && root->right==NULL){ //edge  case 
-    return new_number ;
-}
-int l = dfs(root->left,new_number);
-int r = dfs(root->right,new_number);
-return l+r;
+    int totalSum = 0;
+    string current = "";  
 
-}
+    void helper(TreeNode* root) {
+
+        if (root == NULL) return;
+
+          current += to_string(root->val);
+
+        if (!root->left && !root->right) {
+            totalSum += stoi(current);  
+        }
+
+        // Explore karo
+        helper(root->left);
+        helper(root->right);
+
+         current.pop_back();
+    }
+
     int sumNumbers(TreeNode* root) {
-      int num = 0;
-      return dfs(root,num);  
+        helper(root);
+        return totalSum;
     }
 };
