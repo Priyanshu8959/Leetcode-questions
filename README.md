@@ -624,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2685-count-the-number-of-complete-components](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2685-count-the-number-of-complete-components](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2685-count-the-number-of-complete-components](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
@@ -711,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2685-count-the-number-of-complete-components](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
