@@ -1,41 +1,41 @@
 class Solution {
 public:
-bool dfscheckforbg(vector<vector<int>>& graph,int node,vector<int>&color,int currentColor){
-   color[node]=currentColor;
-   
-   //neighbour k0 check karte hai 
-   for(auto &neighbour : graph[node]){
-       //not colored
-       if(color[neighbour]==-1){
-           int changeINcolor = 1-currentColor;
-           if(dfscheckforbg(graph,neighbour,color,changeINcolor)==false)
-           return false;
-       }
-       
-       //same color of node
-       if(color[neighbour]==color[node]){
-           return false;
-       }
-   }
-   return true;
-  }
-  
-    bool isBipartite(vector<vector<int>>& graph) {
-        int V = graph.size();
-         // Code here
-        //0 --->red and 1-->green
-        
-        
-         
+
+    bool DFS(vector<vector<int>>& graph,int node,vector<int>&color,int currentcolor){
+        color[node]=currentcolor;
+        for(auto it : graph[node]){
+            if(color[it]==currentcolor){
+                return false;
+            }
+            if(color[it]==-1){
+                if(DFS(graph,it,color,1-currentcolor)==false){
+                    return false;
+                }
+            }
+        }
             
-        //using DFS
-        vector<int>color(V,-1);
-        for(int vertax=0;vertax<V;vertax++){
-             if(color[vertax]==-1){
-                 if(dfscheckforbg(graph,vertax,color,0)==false){
-                     return false;
+       return true; 
+    }
+
+    bool isBipartite(vector<vector<int>>& graph) {
+        // step1 : graph prepration 
+        // unordered_map<int,vector<int>>graph;
+        // for(auto it : graph){
+        //     graph[it[0]].push_back(it[1]);
+        //     graph[it[1]].push_back(it[0]);
+        // }
+
+        //step 2 dfs fuction call 
+    
+        int n = graph.size();
+        vector<int>color(n,-1);
+        int currentcolor = 1;  // red = 1 and blue = 0
+        for(int i=0;i<n;i++){
+            if(color[i]==-1){
+                 if( DFS(graph,i,color,currentcolor)==false){
+                    return false;
                  }
-             }
+            }
         }
         return true;
     }
