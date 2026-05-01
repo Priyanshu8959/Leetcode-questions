@@ -35,7 +35,7 @@ public:
         for(int i = 0; i < n; i++)
             parent[i] = i;
 
-        int component = n;
+        int component = n-1;
 
         for(auto &edge : connections){
             if(find(edge[0]) != find(edge[1])){
@@ -43,6 +43,6 @@ public:
                 component--;
             }
         }
-        return component - 1;
+        return component ;
     }
 };
