@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2151-maximum-good-people-based-on-statements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2151-maximum-good-people-based-on-statements) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1610-xor-operation-in-an-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1610-xor-operation-in-an-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2151-maximum-good-people-based-on-statements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2151-maximum-good-people-based-on-statements) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2401-longest-nice-subarray](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2401-longest-nice-subarray) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0401-binary-watch) |
+| [2151-maximum-good-people-based-on-statements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2151-maximum-good-people-based-on-statements) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -734,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0204-count-primes) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2151-maximum-good-people-based-on-statements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2151-maximum-good-people-based-on-statements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Indexed Tree
 |  |
