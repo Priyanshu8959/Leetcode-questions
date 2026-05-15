@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2032-largest-odd-number-in-string) |
 | [2405-optimal-partition-of-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2405-optimal-partition-of-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3462-vowels-game-in-a-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Brainteaser
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2151-maximum-good-people-based-on-statements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2151-maximum-good-people-based-on-statements) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2401-longest-nice-subarray](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2401-longest-nice-subarray) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Greedy
 |  |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0401-binary-watch) |
 | [2151-maximum-good-people-based-on-statements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2151-maximum-good-people-based-on-statements) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Monotonic Stack
 |  |
 | ------- |
