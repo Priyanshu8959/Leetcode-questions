@@ -22,7 +22,7 @@ int dy[4] = {1,-1,0,0};
         for(int i=0;i<4;i++){
             int nr = r +dx[i];
             int nc = c+dy[i];
-            ans|=helper(nr,nc,board,s);
+            ans= ans||helper(nr,nc,board,s);
         }
         board[r][c]=ch;
         return ans;
