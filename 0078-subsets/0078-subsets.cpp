@@ -1,21 +1,21 @@
 class Solution {
 public:
-    vector<vector<int>> subsets(vector<int>& nums) {
-        int n = nums.size();
-int subsets = 1 << n;
-vector<vector<int>> ans;
-
-for (int num = 0; num < subsets; num++) {
-    vector<int> subset;
-    for (int i = 0; i < n; i++) {
-        if (num & (1 << i)) {
-            subset.push_back(nums[i]);
-        }
+void help(vector<int>&subans,vector<vector<int>>&ans,vector<int>& nums,int i){
+    if(i==nums.size()){
+        ans.push_back(subans);
+        return ;
     }
-    ans.push_back(subset);
+    help(subans,ans,nums,i+1); // not pick 
+
+    subans.push_back(nums[i]);
+    help(subans,ans,nums,i+1);
+    subans.pop_back();
+
 }
-
-return ans;
-
+    vector<vector<int>> subsets(vector<int>& nums) {
+        vector<vector<int>>ans;
+        vector<int>subans;
+        help(subans,ans,nums,0);
+        return ans;
     }
 };
