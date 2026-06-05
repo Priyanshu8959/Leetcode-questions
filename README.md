@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2679-count-distinct-numbers-on-board) |
 | [3462-vowels-game-in-a-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3462-vowels-game-in-a-string) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1013-fibonacci-number) |
 | [1814-jump-game-vi](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1814-jump-game-vi) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Memoization
 |  |
 | ------- |
