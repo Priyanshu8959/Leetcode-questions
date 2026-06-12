@@ -1,42 +1,47 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
     ListNode* reverseBetween(ListNode* head, int left, int right) {
+         ListNode* helper = head;
+          ListNode*  before = NULL;
+          int times = right-left+1;
+          if(left==right) return head;
 
-        if (!head || left == right) return head;
-
-        ListNode* helper = head;
-        ListNode* before = NULL;
-        ListNode* prev = NULL;
-
-        int position = 1;
-        int times = right - left + 1;
-
-         
-        while (position < left) {
+            int pos = 1;
+           while(pos<left){
             before = helper;
-            helper = helper->next;
-            position++;
-        }
+            helper = helper ->next;
+            pos++;
+           }
+          
+            ListNode* current= helper;
 
-        ListNode* current = helper;
+            //reversal 
+             ListNode*  pre = NULL;
+            while(times--){
+                 ListNode* ahead = current->next;
+                 current->next = pre;
+                 pre = current;
+                 current = ahead;
+            }
 
-     
-        while (times--) {
-            ListNode* after = current->next;
-            current->next = prev;
-            prev = current;
-            current = after;
-        }
-
-    
-       if (left == 1) {
-     head = prev;
-} else {
-     before->next = prev;
-}
-
-        helper->next = current;
-
-        return head;
+            //connection of node 
+            if(left == 1){
+                head = pre ;
+            }
+            else{
+             before ->next = pre;
+            }
+            helper ->next = current;
+            return head;
     }
 };
