@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0844-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0658-find-k-closest-elements) |
+| [0844-backspace-string-compare](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0958-sort-array-by-parity-ii) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0844-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1078-remove-outermost-parentheses) |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0059-spiral-matrix-ii) |
+| [0844-backspace-string-compare](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0844-backspace-string-compare) |
 | [2069-walking-robot-simulation-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2069-walking-robot-simulation-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
