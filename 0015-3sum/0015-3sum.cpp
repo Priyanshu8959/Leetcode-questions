@@ -9,8 +9,7 @@ public:
 
         for (int i = 0; i < n; i++) {
 
-            // Skip duplicate first elements
-            if (i > 0 && nums[i] == nums[i - 1])
+             if (i > 0 && nums[i] == nums[i - 1])
                 continue;
 
             int left = i + 1;
