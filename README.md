@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3462-vowels-game-in-a-string](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3462-vowels-game-in-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Brainteaser
 |  |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/2679-count-distinct-numbers-on-board) |
 | [3612-process-string-with-special-operations-i](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/3614-process-string-with-special-operations-ii) |
 ## Trie
 |  |
 | ------- |
