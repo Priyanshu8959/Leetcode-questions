@@ -1,28 +1,20 @@
 class Solution {
 public:
-    vector<int> nextGreaterElements(vector<int>& a) {
-        int n = a.size();
-        vector<int>v(n,-1);
-
+    vector<int> nextGreaterElements(vector<int>& nums) {
+        // step 1 : for circular array we need to itrate 2 times
         stack<int>st;
-        for(int i = 2*n - 1; i >= 0; i--)
-        {
-            // we pop out all elements smaller than current element
-            while(!st.empty() && (a[i%n] >= st.top()))
-            {
+        int n =nums.size();
+        vector<int>ans(n,-1);
+        for(int i=2*n-1;i>=0;i--){
+            while(!st.empty() && st.top()<=nums[i%n]){
                 st.pop();
             }
-
-            // if stack is empty means no greater element is there
-            // if not empty we make answer at that index equal to top element
-            if(!st.empty() && (i < n))
-            {
-                v[i] = st.top();
+            if(!st.empty() && (i<n)){
+                ans[i]=st.top();
             }
 
-            st.push(a[i%n]);
+            st.push(nums[i%n]);
         }
-
-        return v;
+        return ans;
     }
 };
