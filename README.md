@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0507-perfect-number) |
 | [0670-maximum-swap](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0670-maximum-swap) |
 | [0973-k-closest-points-to-origin](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0973-k-closest-points-to-origin) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0371-sum-of-two-integers) |
 | [0401-binary-watch](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/0401-binary-watch) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1610-xor-operation-in-an-array](https://github.com/Priyanshu8959/Leetcode-questions/tree/master/1610-xor-operation-in-an-array) |
